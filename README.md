@@ -1,0 +1,2 @@
+# bear-resource-delegate
+
